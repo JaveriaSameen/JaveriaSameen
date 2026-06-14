@@ -6,7 +6,7 @@ I like working across both frontend and backend, especially where logic meets de
 
 I’m always learning, always building, and always looking for ways to solve real-world problems through code.👋
 
-## 🤖 Multilingual Complaint & Call Bot System (PHP + MySQL + JavaScript)
+### 🤖 Multilingual Complaint & Call Bot System (PHP + MySQL + JavaScript)
 **Role:** Full-Stack Contributor (Frontend, Backend, UI/UX, Database, Testing) | Internship Project – State Bank of Pakistan
 
 - Contributed to the development of a multilingual complaint chatbot and call bot system as part of an internship project at State Bank of Pakistan  
@@ -23,7 +23,7 @@ I’m always learning, always building, and always looking for ways to solve rea
 
 🔗 https://github.com/Maham-Fatima/SBP-complaint-assistent
 
-## 🐾 Pet Shelter Management System (Node.js + MongoDB + JavaScript)
+### 🐾 Pet Shelter Management System (Node.js + MongoDB + JavaScript)
 **Role:** Frontend Developer, UI/UX Designer, Database & Testing Contributor | Course Project – Advanced Database Management System
 
 - Contributed to the development of a Pet Shelter Management System as part of an ADBMS course project  
